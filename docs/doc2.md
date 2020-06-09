@@ -3,6 +3,12 @@ id: doc2
 title: Document Number 2
 ---
 
+- [go to a header written in japanese](doc1#日本語)
+
+- [go to a header written in mandarin](doc1#中文)
+
+- [go to a header written in cyrillic](doc1#кириллица)
+
 - [go to images](doc1#images)
 
 - [go to code](doc1#code)
@@ -21,8 +27,5 @@ title: Document Number 2
 
 - [go to h6](doc1#h6---create-the-best-documentation)
 
-- [go to a header written in mandarin](doc1#中文)
-
-- [go to a header written in japanese](doc1#日本語)
 
 This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)
