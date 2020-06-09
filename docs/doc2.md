@@ -21,6 +21,8 @@ title: Document Number 2
 
 - [go to h6](doc1#h6---create-the-best-documentation)
 
-- [go to markdown syntax](doc1#markdown-syntax)
+- [go to a header written in mandarin](doc1#中文)
+
+- [go to a header written in japanese](doc1#日本語)
 
 This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)

@@ -36,6 +36,18 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+
+
+---
+## 中文
+
+你好
+
+---
+## 日本語
+
+こんにちは
+
 ---
 
 ## Lists
